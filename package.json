@@ -1,0 +1,23 @@
+{
+  "name": "txt-i18n",
+  "version": "1.0.0",
+  "description": "Parse a structured .txt file and generates i18n JSON files per locale — with history tracking",
+  "homepage": "https://github.com/GigiJuliette/i18n-helper#readme",
+  "bugs": {
+    "url": "https://github.com/GigiJuliette/i18n-helper/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GigiJuliette/i18n-helper.git"
+  },
+  "license": "ISC",
+  "author": "GigiJuliette",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "txt-i18n": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

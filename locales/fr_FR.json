@@ -6,8 +6,14 @@
     },
     "common": {
       "button": {
-        "save": "enregistrer"
+        "save": "enregistrer",
+        "delete": "supprimer",
+        "cancel": "annuler",
+        "archiver": "archiver"
       }
+    },
+    "user": {
+      "profile": "Photo de profile"
     }
   }
 }

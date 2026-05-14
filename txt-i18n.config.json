@@ -1,0 +1,4 @@
+{
+  "input": "./locales/helper.txt",
+  "output": "./locales"
+}
