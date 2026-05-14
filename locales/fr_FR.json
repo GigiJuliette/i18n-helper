@@ -1,7 +1,13 @@
 {
   "translation": {
     "message": {
-      "bye": "Au revoir"
+      "bye": "Au revoir",
+      "ily": "Je t'aime"
+    },
+    "common": {
+      "button": {
+        "save": "enregistrer"
+      }
     }
   }
 }

@@ -1,0 +1,4 @@
+# ORDER : en_GB | fr_FR | pl_PL
+
+common.button.save : "save" | "enregistrer" | "ratować"
+message.ily : "I love you" | "Je t'aime" | "Kocham cie"

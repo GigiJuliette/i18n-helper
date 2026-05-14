@@ -1,7 +1,13 @@
 {
   "translation": {
     "message": {
-      "bye": "Do widzenia"
+      "bye": "Do widzenia",
+      "ily": "Kocham cie"
+    },
+    "common": {
+      "button": {
+        "save": "ratować"
+      }
     }
   }
 }
